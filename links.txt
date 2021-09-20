@@ -1,0 +1,5 @@
+books retrieve of:
+https://github.com/zygmuntz/goodbooks-10k/blob/master/samples/books.csv
+
+customer names dataset retrieve of:
+https://www.kaggle.com/sushamnandi/customer-names-dataset
