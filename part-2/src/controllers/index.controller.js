@@ -20,7 +20,7 @@ const getSalesRevenueByCount = async (req, res) => {
             res.write('incorrect consult: maybe count is not a number');
             res.end();
         }else{
-            res.json(data);
+            res.json(data)
         }
         res.end();
     });
